@@ -18,5 +18,6 @@ public class Employee {
     private String department;
     private int age;
     private double salary;
+    private String OfficeNumber;
 }
 
